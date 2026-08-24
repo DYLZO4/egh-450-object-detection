@@ -7,7 +7,7 @@ from pathlib import Path
 
 # ---- CONFIG (defaults, can be overridden via CLI args below) ----
 topic = '/depthai_node/image/compressed'   # confirm this matches exactly (see list_topics below)
-save_every_n = 15# 60fps / 30 = ~2fps sampling, good starting point for labeling
+save_every_n = 2# 60fps / 30 = ~2fps sampling, good starting point for labeling
 img_format = 'jpg'         # match source since it's already compressed/JPEG
 jpg_quality = 95
 # ----------------
