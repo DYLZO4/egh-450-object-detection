@@ -1,0 +1,6 @@
+path: /home/dylan/git/egh-450-object-detection/dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: ['person', 'backpack']

@@ -1,5 +1,3 @@
 bags/
-<<<<<<< HEAD
-=======
 .venv/
->>>>>>> 9fa37952 (initial model)
+venv/
